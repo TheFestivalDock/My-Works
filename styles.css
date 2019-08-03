@@ -17,7 +17,6 @@
         }
         .container2{
             line-height: 12px;
-            ont-family: Arial;
             position: absolute;
             top: 71px;
             left: 450px;
@@ -31,8 +30,9 @@
           position: absolute;
           top:315px;
           left:158px;
-          font-family: Myriad Pro, Regular, serif;
-           ;
+          font-family: Gill Sans, Sans-serif;
+          line-height: 12px;
+           
 
         }
 
@@ -40,7 +40,7 @@
           position: absolute;
           left:143px;
           top:485px;
-          font-family: Myriad Pro, Regular, serif;
+          font-family: Gill Sans, Sans-serif;
         }
 
         .container6{
@@ -48,8 +48,7 @@
           left: 395px;
           top:300px;
           margin-right: 10px;
-          font-family: Myriad Pro, Regular, serif;
-
+          font-family: Gill Sans, Sans-serif;
 
         }
 
@@ -59,6 +58,7 @@
           top:680px;
           height: 1px;
           border-color:blue;
+          font-family: Gill Sans, Sans-serif;
 
 
           
@@ -68,10 +68,12 @@
           position: absolute;
           top: 680px;
           left: 138px;
+          font-family: Gill Sans, Sans-serif;
         }
 
         .container8{
           position: absolute;
           top: 740px;
           left:450px;
+          font-family: Gill Sans, Sans-serif;
         }
